@@ -17,7 +17,13 @@ etc.)
  
 Note: The query should be asked from multiple sources in a single query.
 
+## Solution 
+Approach 1 - Simple RAG system
+Approach 2 - Agentic RAG system
 
+The limitations of the first approach is overcome on the second one.
+
+## How to run the project??
 I have created a main.py file which uses Agentic RAG and the jupyter notbeook includes the detailed code of simple RAG Approach and Agentic RAG approach. Can make use of streamlit to provide the user interface.
 
 How to run the main.py file
